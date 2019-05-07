@@ -1,0 +1,21 @@
+Zombie Shelter - OPIS
+
+Po uruchomieniu programu wyœwietla siê menu z mo¿liwoœci¹ rozpoczêcia gry lub zakoñczenia programu. 
+
+W grze musimy odpowiednio przydzieliæ dostêpne punkty si³y roboczej do zasobów, aby przyspieszyæ ich wzrost. Celem jest osiagniêcie stanu zasobów opisanego w okienku informacyjnym w przeci¹gu stu dni - je¿eli opisane warunki zostan¹ spe³nione, odeprzemy atak hordy zombie i ocalimy osadê. Up³ywaj¹cy czas przypomina o tym, by szybko podj¹æ decyzje z których nie ma ju¿ odwrotu - pracownicy zostaj¹ ju¿ przeszkoleni w jednej profesji i nie ma czasu na zmiany zdania.
+
+W trakcie gry mo¿e pojawiæ siê katastrofa, której mo¿na unikn¹æ przy spe³nieniu odpowiednich warunków.
+
+Miêdzy zasobami wystêpuj¹ zale¿noœci - je¿eli stan odpowiedniego zasobu jest odpowiednio wysoki, wspomaga on wzrost innego. Je¿eli jest za niski, mo¿e powstrzymywaæ wzrost innego. 
+
+Morale - symbolizuj¹ stan ducha mieszkañców osady. Wspomaganie moralów polega ma m.in. organizowaniu wydarzeñ kulturalnych. 
+
+Narzêdzia - symbolizuj¹ zaawansowanie techniczne i stan narzêdzi w osadzie. Pomagaj¹ przy produkcji broni.
+
+Broñ - symbolizuj¹ stan uzbrojenia osady. Odpowiednia iloœæ broni pomaga w zabezpieczaniu terenu umo¿liwaj¹æ rozwój architektury.
+
+Architektura - budynki mieszkalne, fortyfikacje i szklarnie w osadzie (w nich hodujemy ¿ywnoœæ).
+
+¯ywnoœæ - stan ¿ywnoœci osady. Je¿eli jest jej zbyt ma³o, wp³ywa to negatywnie na morale.
+
+
